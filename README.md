@@ -6,7 +6,7 @@
 
 
 
-![image-20210705092626249](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20210705092626249.png)
+![](img/readme.png)
 
 **这是我的java课程设计项目，由于当时水平有限，这个项目主要借鉴了别人的代码，我只是进行了改进和美化。**
 
